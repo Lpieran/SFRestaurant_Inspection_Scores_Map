@@ -154,7 +154,7 @@ function updateChart(data) {
   // Set up the chart dimensions and margins
   const width = mapContainerWidth;
   const height = 600;
-  const margin = { top: 60, right: 0, bottom: 250, left: 200 };
+  const margin = { top: 120, right: 0, bottom: 270, left: 200 };
   const chartWidth = width - margin.left - margin.right;
   const chartHeight = height - margin.top - margin.bottom;
 
